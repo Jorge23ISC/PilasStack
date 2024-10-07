@@ -31,7 +31,7 @@ public class BuscadorPila {
         return info;
     }
 
-    public String Limite() {
+    public String limite() {
         if (vacio()) {
             System.out.println("El Historial se encuentra vacio");
             return null;

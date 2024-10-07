@@ -36,7 +36,7 @@ public class Main {
                     buscador.quitar();
                     break;
                 case 3:
-                    buscador.Limite();
+                    buscador.limite();
                     break;
                 case 4:
                     buscador.mostrarPila();
